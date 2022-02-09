@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://spatie.github.io/.github/docs/images/spatie.png" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://spatie.github.io/.github/images/spatie.png" width="400"></a></p>
 
 ## About Spatie
 
