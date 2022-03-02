@@ -14,7 +14,7 @@ We have built a collection of best-in-class products:
 
 Our experience building PHP and Laravel applications is shared in these premium courses:
 
-- [Laravel Beyond CRUD](https://laravel-beyond-crud)
+- [Laravel Beyond CRUD](https://laravel-beyond-crud.com)
 - [Testing Laravel](https://testing-laravel.com)
 - [Laravel Package Training](https://laravelpackage.training)
 - [Laravel Event Sourcing](https://event-sourcing-laravel.com)
