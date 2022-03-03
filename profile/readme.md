@@ -9,12 +9,12 @@ We have built a collection of best-in-class products:
 - [Ray](https://myray.app): a desktop app to debug applications faster
 - [Flare](https://flareapp.io): the best exception tracker for PHP and Laravel application
 - [Mailcoach](https://mailcoach.app): a self-hosted solution for sending mails reliably.
-- [Media Library Pro](https://medialibrary/pro): front-end components to upload and manage media
+- [Media Library Pro](https://medialibrary.pro): front-end components to upload and manage media
 - [Laravel Backup Server](https://spatie.be/products/laravel-backup-server): a package to easily back up multiple server
 
 Our experience building PHP and Laravel applications is shared in these premium courses:
 
-- [Laravel Beyond CRUD](https://laravel-beyond-crud)
+- [Laravel Beyond CRUD](https://laravel-beyond-crud.com)
 - [Testing Laravel](https://testing-laravel.com)
 - [Laravel Package Training](https://laravelpackage.training)
 - [Laravel Event Sourcing](https://event-sourcing-laravel.com)
