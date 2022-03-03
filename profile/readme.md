@@ -17,6 +17,7 @@ Our experience building PHP and Laravel applications is shared in these premium 
 - [Laravel Beyond CRUD](https://laravel-beyond-crud.com)
 - [Testing Laravel](https://testing-laravel.com)
 - [Laravel Package Training](https://laravelpackage.training)
+- [Writing Readable PHP](https://writing-readable-php.com)
 - [Laravel Event Sourcing](https://event-sourcing-laravel.com)
 - [Front Line PHP](https://laravelpackage.training)
 
