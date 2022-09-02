@@ -19,7 +19,7 @@ Our experience building PHP and Laravel applications is shared in these premium 
 - [Laravel Package Training](https://laravelpackage.training)
 - [Writing Readable PHP](https://writing-readable-php.com)
 - [Laravel Event Sourcing](https://event-sourcing-laravel.com)
-- [Front Line PHP](https://laravelpackage.training)
+- [Front Line PHP](https://front-line-php.com)
 
 We like to use Laravel for most of our projects and love to contribute to the awesome Laravel ecosystem. That's also why we have been building Laravel and PHP packages since 2015. Our packages have been downloaded over 200 millions times. You'll find [a full list of free packages](https://spatie.be/open-source?search=&sort=-downloads) in the open source section of our website.
 
