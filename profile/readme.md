@@ -21,7 +21,7 @@ Our experience building PHP and Laravel applications is shared in these premium 
 - [Laravel Event Sourcing](https://event-sourcing-laravel.com)
 - [Front Line PHP](https://front-line-php.com)
 
-We like to use Laravel for most of our projects and love to contribute to the awesome Laravel ecosystem. That's also why we have been building Laravel and PHP packages since 2015. Our packages have been downloaded more than 800 million times. You'll find [a full list of free packages](https://spatie.be/open-source?search=&sort=-downloads) in the open source section of our website.
+We like to use Laravel for most of our projects and love to contribute to the awesome Laravel ecosystem. That's also why we have been building Laravel and PHP packages since 2015. Our packages have been downloaded more than a billion times! You'll find [a full list of free packages](https://spatie.be/open-source/packages) in the open source section of our website.
 
 Here are some of our open source highlights:
 
