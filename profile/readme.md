@@ -1,5 +1,3 @@
-<p align="center"><a href="https://spatie.be" target="_blank"><img src="https://github.com/spatie/.github/blob/main/docs/images/spatie.png?raw=true" width="400"></a></p>
-
 ## About Spatie
 
 [Spatie](https://spatie.be) crafts web applications, courses & open source packages in the Laravel ecosystem. 
