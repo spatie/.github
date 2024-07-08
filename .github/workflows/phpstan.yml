@@ -7,7 +7,9 @@ on:
         required: false
         type: string
         default: '8.3'
-
+    secrets:
+      composerAuth:
+        required: false
 jobs:
   phpstan:
     name: phpstan
@@ -24,6 +26,8 @@ jobs:
       
       - name: Install composer dependencies
         uses: ramsey/composer-install@v3
+        env:
+          COMPOSER_AUTH: ${{ secrets.composerAuth }}
       
       - name: Run PHPStan
         run: ./vendor/bin/phpstan --error-format=github
