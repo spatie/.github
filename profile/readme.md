@@ -32,4 +32,4 @@ Here are some of our open source highlights:
 
 You can help with our open source efforts in many ways: by [resolving open issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Aspatie+is%3Apublic+label%3A%22good+first+issue%22) or just by [sending us a postcard](https://spatie.be/open-source/postcards).
 
-You can also sponsor our open source work [via GitHub Sponsors](https://github.com/sponsors/spatie) or [buy a T-shirt](https://cottonbureau.com/people/spatie) from us.
+You can support our open source work by sponsoring us [on GitHub](https://github.com/sponsors/spatie) or [by buying some of our cool merch](https://spatie.myspreadshop.net/).
